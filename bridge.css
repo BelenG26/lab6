@@ -1,0 +1,36 @@
+#bridgemap {
+    width: 600px;
+    height: 500px;
+    border: 1px;
+
+}
+body {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 400px;
+    padding-right: 35px;
+
+}
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-emphasis: bold;
+}
+
+h3 {
+    text-emphasis: bold;
+}
+
+.grid-container{
+    display: grid;
+  column-gap: 50px;
+}
+img {
+    border: 1px solid purple;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
